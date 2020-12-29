@@ -1,4 +1,4 @@
-package com.example.templates;
+package com.example.model;
 
 import java.util.Arrays;
 
